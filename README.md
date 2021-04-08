@@ -1,5 +1,6 @@
 # Ti-84-Plus-CE-Programs
 
+*Must have computer*
 Steps:
 1. Click the big green button on the screen that says "Code", and download the zip file.
 2. Find the zip file in your computer using File Explorer, open it, and find the program you want. Remember where this is.
